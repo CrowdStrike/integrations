@@ -22,4 +22,4 @@ six==1.16.0
 termcolor==1.1.0
 watchdog==2.1.9
 wcmatch==8.4
-zipp==3.8.0
+zipp==3.19.1
